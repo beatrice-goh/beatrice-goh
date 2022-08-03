@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beatrice-goh
 - 👀 I’m interested in data science projects, especially those related to finance. 
-- 🌱 I’m currently learning about data analytics, data science and data engineering. 
-- 💞️ I’m looking to collaborate on data science projects
+- 🌱 I’m currently in a job-training programme for data analytics. 
+- 💞️ I’m open to opportunities in data science and data analytics. 
 - 📫 How to reach me: beatrice.goh@yahoo.com
 
 <!---
