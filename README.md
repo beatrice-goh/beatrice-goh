@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @beatrice-goh
 - 👀 I’m interested in data science projects, especially those related to finance. 
 - 🌱 I’m currently in a job-training programme for data analytics. 
+- 🧑‍🎓 I'm looking to graduate from the Masters in IT for Business programme by Nov 2022. 
 - 💞️ I’m open to opportunities in data science and data analytics. 
 - 📫 How to reach me: beatrice.goh@yahoo.com
 
